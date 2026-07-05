@@ -1,0 +1,6 @@
+{
+  "name": "Aether Dynamics",
+  "description": "Pioneering the future of levitation and sustainable aerial mobility through cutting-edge anti-gravity technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
